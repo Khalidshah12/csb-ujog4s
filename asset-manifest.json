@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://khalidshah12.github.io/csb-ujog4s/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://khalidshah12.github.io/csb-ujog4s/static/js/main.471641d5.chunk.js",
+    "main.js.map": "https://khalidshah12.github.io/csb-ujog4s/static/js/main.471641d5.chunk.js.map",
+    "runtime-main.js": "https://khalidshah12.github.io/csb-ujog4s/static/js/runtime-main.c9860ac4.js",
+    "runtime-main.js.map": "https://khalidshah12.github.io/csb-ujog4s/static/js/runtime-main.c9860ac4.js.map",
+    "static/js/2.48a62ef5.chunk.js": "https://khalidshah12.github.io/csb-ujog4s/static/js/2.48a62ef5.chunk.js",
+    "static/js/2.48a62ef5.chunk.js.map": "https://khalidshah12.github.io/csb-ujog4s/static/js/2.48a62ef5.chunk.js.map",
+    "index.html": "https://khalidshah12.github.io/csb-ujog4s/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://khalidshah12.github.io/csb-ujog4s/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.48a62ef5.chunk.js.LICENSE.txt": "https://khalidshah12.github.io/csb-ujog4s/static/js/2.48a62ef5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c9860ac4.js",
+    "static/js/2.48a62ef5.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.471641d5.chunk.js"
+  ]
+}
